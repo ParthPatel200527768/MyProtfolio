@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/myprotfolio/static/css/main.bf538fe7.css",
+    "main.js": "/myprotfolio/static/js/main.b44b7064.js",
+    "static/media/SQL by Coursera.png": "/myprotfolio/static/media/SQL by Coursera.d5f2858ef2b92c9ec7be.png",
+    "static/media/SuitPhoto.jpg": "/myprotfolio/static/media/SuitPhoto.5039282797dbcd713f74.jpg",
+    "static/media/Brainy Beams.png": "/myprotfolio/static/media/Brainy Beams.de94fb6e964e96d85734.png",
+    "static/media/Microsoft Certi for Business Analyst.png": "/myprotfolio/static/media/Microsoft Certi for Business Analyst.1d5a3168eb087d334730.png",
+    "static/media/SQL as a data Science.png": "/myprotfolio/static/media/SQL as a data Science.988f633c85d884066a7e.png",
+    "static/media/Python Data Analysis.png": "/myprotfolio/static/media/Python Data Analysis.86972bc2858cab011734.png",
+    "static/media/Cassandra.png": "/myprotfolio/static/media/Cassandra.8f9db986c348bfa7d672.png",
+    "static/media/Auth&Autho.jpg": "/myprotfolio/static/media/Auth&Autho.a30b5da143009952527d.jpg",
+    "static/media/RAR.jpg": "/myprotfolio/static/media/RAR.eb965d1c71ef93976b87.jpg",
+    "index.html": "/myprotfolio/index.html",
+    "main.bf538fe7.css.map": "/myprotfolio/static/css/main.bf538fe7.css.map",
+    "main.b44b7064.js.map": "/myprotfolio/static/js/main.b44b7064.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.b44b7064.js"
+  ]
+}
