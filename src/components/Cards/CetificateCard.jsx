@@ -7,7 +7,6 @@ import Microsoft from '../../Assets/Certificates/Microsoft Certi for Business An
 import Python from '../../Assets/Certificates/Python Data Analysis.png'
 import Sql from '../../Assets/Certificates/SQL as a data Science.png'
 import Sql2 from '../../Assets/Certificates/SQL by Coursera.png'
-// import D2D from '../../Assets/Certificates/D2D.jpg'
 
 const Card = styled.div`
     width: 500px;
@@ -28,7 +27,7 @@ const Card = styled.div`
     @media only screen and (max-width: 768px){
         padding: 10px;
         gap: 8px;
-        width: 300px;
+        width: 75%;
     }
 
     border: 0.1px solid #306EE8;
@@ -39,9 +38,6 @@ const Image = styled.img`
     background-color: #000;
     border-radius: 10px;
     margin-top: 4px;
-    @media only screen and (max-width: 768px){
-        height: 40px;
-    }
 `
 const Role = styled.div`
     font-size: 18px;
