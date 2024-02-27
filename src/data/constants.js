@@ -11,7 +11,7 @@ export const Bio = {
     "Experienced IT professional specializing in data analysis, MERN stack development, and Big Data Analytics. Graduated with distinction in Big Data Analytics. Currently enhancing project management skills to drive innovation and success.",
   github: "https://github.com/ParthPatel200527768",
   resume:
-    "https://drive.google.com/file/d/1UAI7vndGjcul-6tKuJUymjx-6MJ2hSN4/view?usp=sharing",
+    "https://drive.google.com/file/d/1VWgpjTiPyNk1HG9R8NxD8hanpMHETlVf/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/parth-patel-a713281a7/",
   insta: "https://www.instagram.com/parthu_1173/?next=%2F",
   facebook: "https://www.facebook.com/profile.php?id=100013823160509",
