@@ -8,7 +8,7 @@ export const Bio = {
     "Developer"
   ],
   description:
-    "Dynamic and accomplished IT professional with a robust foundation in Information Technology and hands-on experience in data analysis and MERN stack development. Adept at leveraging insights from data to drive strategic decision-making. Recently graduated with distinction in Big Data Analytics, complementing expertise with cutting-edge industry insights. Currently advancing skills in Project Management to excel in overseeing IT projects. Eager to contribute a unique blend of technical proficiency and project management acumen to innovate and drive success within your organization.",
+    "Experienced IT professional specializing in data analysis, MERN stack development, and Big Data Analytics. Graduated with distinction in Big Data Analytics. Currently enhancing project management skills to drive innovation and success.",
   github: "https://github.com/ParthPatel200527768",
   resume:
     "https://drive.google.com/file/d/1UAI7vndGjcul-6tKuJUymjx-6MJ2hSN4/view?usp=sharing",
@@ -217,13 +217,13 @@ export const experiences = [
 
 export const education = [
   {
-    id: 0,
-    img: "https://www.gandhinagaruni.ac.in/wp-content/uploads/2023/02/favicon-gu.png",
-    school: "Gandhinagar Institute of Technology, India",
-    date: "Apr 2018 - Apr 2022",
-    grade: "8.78 CGPA",
-    desc: "I started my journey as a Data Analyst & developer by pursuing a Bachelor's degree of Engineering in the field of Information Technology at Gandhinagar Institute of Technology(Currently known as Gandhinagar University), Gandhinagar. I have completed 4 years and got a CGPA of 8.78(Distinction). I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. Moreover, I also participated in many intercollege tech fests to showup my skills in Analysis.",
-    degree: "Bachelor of Technology - BTech, Information Technology",
+    id: 2,
+    img: "https://www.georgiancollege.ca/wp-content/uploads/GC_ILAC_Horizontal_RGB-1024x341.png",
+    school: "Georgian@ILAC, Tornto, Canada",
+    date: "Sep 2023 - Apr 2024",
+    grade: "82.16 GPA in First Semester",
+    desc: "Engaged in a comprehensive project management course, honing skills vital for effective project execution. Learning key principles including scope management, time and resource allocation, risk assessment, and stakeholder communication. Gaining proficiency in project planning, scheduling, and budgeting to ensure successful project delivery. Equipped with the knowledge and tools necessary to lead and manage projects across various industries, optimizing processes and achieving project objectives efficiently.",
+    degree: "Post Graduate Certification, Project Management",
   },
   {
     id: 1,
@@ -234,14 +234,15 @@ export const education = [
     desc: "Completed comprehensive coursework covering a range of topics, including data mining, data visualization, machine learning, Hadoop, Spark, and other big data technologies.",
     degree: "Post Graduate Certification, Big Data Analysis",
   },
+  
   {
-    id: 2,
-    img: "https://www.georgiancollege.ca/wp-content/uploads/GC_ILAC_Horizontal_RGB-1024x341.png",
-    school: "Georgian@ILAC, Tornto, Canada",
-    date: "Sep 2023 - Apr 2024",
-    grade: "82.16 GPA in First Semester",
-    desc: "Engaged in a comprehensive project management course, honing skills vital for effective project execution. Learning key principles including scope management, time and resource allocation, risk assessment, and stakeholder communication. Gaining proficiency in project planning, scheduling, and budgeting to ensure successful project delivery. Equipped with the knowledge and tools necessary to lead and manage projects across various industries, optimizing processes and achieving project objectives efficiently.",
-    degree: "Post Graduate Certification, Project Management",
+    id: 0,
+    img: "https://www.gandhinagaruni.ac.in/wp-content/uploads/2023/02/favicon-gu.png",
+    school: "Gandhinagar Institute of Technology, India",
+    date: "Apr 2018 - Apr 2022",
+    grade: "8.78 CGPA",
+    desc: "I started my journey as a Data Analyst & developer by pursuing a Bachelor's degree of Engineering in the field of Information Technology at Gandhinagar Institute of Technology(Currently known as Gandhinagar University), Gandhinagar. I have completed 4 years and got a CGPA of 8.78(Distinction). I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. Moreover, I also participated in many intercollege tech fests to showup my skills in Analysis.",
+    degree: "Bachelor of Technology - BTech, Information Technology",
   },
 ];
 
