@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myprotfolio/static/css/main.bf538fe7.css",
-    "main.js": "/myprotfolio/static/js/main.47a34996.js",
+    "main.js": "/myprotfolio/static/js/main.10c051d0.js",
     "static/media/SQL by Coursera.png": "/myprotfolio/static/media/SQL by Coursera.d5f2858ef2b92c9ec7be.png",
     "static/media/SuitPhoto.jpg": "/myprotfolio/static/media/SuitPhoto.5039282797dbcd713f74.jpg",
     "static/media/Brainy Beams.png": "/myprotfolio/static/media/Brainy Beams.de94fb6e964e96d85734.png",
@@ -13,10 +13,10 @@
     "static/media/RAR.jpg": "/myprotfolio/static/media/RAR.eb965d1c71ef93976b87.jpg",
     "index.html": "/myprotfolio/index.html",
     "main.bf538fe7.css.map": "/myprotfolio/static/css/main.bf538fe7.css.map",
-    "main.47a34996.js.map": "/myprotfolio/static/js/main.47a34996.js.map"
+    "main.10c051d0.js.map": "/myprotfolio/static/js/main.10c051d0.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.47a34996.js"
+    "static/js/main.10c051d0.js"
   ]
 }
